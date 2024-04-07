@@ -1,5 +1,5 @@
 
-#a small code to understand variables in python converting celsius to farenheit
+#a small code to understand variables in python (TEMPERATURE CONVERTER)
 
 
 celsius = float(input("Enter the temprature in celsius: "))
