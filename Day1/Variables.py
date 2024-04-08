@@ -1,5 +1,5 @@
 
-#a small code to understand variables in python (TEMPERATURE CONVERTER)
+#a small code to understand Basics (TEMPERATURE CONVERTER)
 
 
 celsius = float(input("Enter the temprature in celsius: "))
